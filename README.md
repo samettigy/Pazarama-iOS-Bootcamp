@@ -37,12 +37,12 @@
 ### 2. Pokemon App
 
 
-<img src="[Pokemon/ScreenShots/Screenshot 2023-11-05 at 14.55.13.png](https://github.com/samettigy/Pokemon/blob/main/Pokemon/ScreenShots/Screenshot%202023-11-05%20at%2014.55.13.png)" width="300" />
-  <img src="Pokemon/ScreenShots/Simulator Screenshot - iPhone 14 - 2023-11-05 at 14.55.58.png" width="280" />
-  <img src="Pokemon/ScreenShots/Screenshot 2023-11-05 at 14.55.38.png" width="300" />
-   <img src="Pokemon/ScreenShots/Nov-05-2023 14-59-53.gif" width="300" />
-   <img src="Pokemon/ScreenShots/gif.gif" width="300" />
 
+| Video 1 | Screen 2 | Screen 3 |
+| ----------- | ---------------- | ---------------- |
+| ![pokeMain](https://github.com/samettigy/Pazarama-iOS-Bootcamp/assets/116752451/2842e76c-87d5-4b30-9875-24de2f69a060)
+![pokeDetail](https://github.com/samettigy/Pazarama-iOS-Bootcamp/assets/116752451/697c26b3-a367-4725-a03f-b7db1be62261)
+![1699881096221](https://github.com/samettigy/Pazarama-iOS-Bootcamp/assets/116752451/1d56c834-b6d1-4cfa-8a3e-c0e54bffb3e7)
 
 
 

@@ -3,7 +3,7 @@
 </h1>
 
 ## Description
-<p>The iOS bootcamp organized by Pazarama and Coderspace, with Atıl Samancıoğlu as the instructor, includes lesson projects and homework projects.</p>
+<p>Pazarama ve Coderspace tarafından düzenlenen ve eğitmenliğini Atıl Samancıoğlu'nun yaptığı iOS Bootcamp'inde projeler ve ödevler yer alıyor.</p>
 
 ## Technologies and Libraries
 - MVVM

@@ -25,7 +25,7 @@
 
 ## Screenshots
 
-### 1. Maximum Mobil App Homepage Design
+### Maximum Mobil App Homepage Design
 
 | Video 1 | Screen 2 | Screen 3 |
 | ----------- | ---------------- | ---------------- |
@@ -34,19 +34,9 @@
 
 
 
-### 2. Pokemon App
 
 
-
-| Video 1 | Screen 2 | Screen 3 |
-| ----------- | ---------------- | ---------------- |
-| ![pokeMain](https://github.com/samettigy/Pazarama-iOS-Bootcamp/assets/116752451/2842e76c-87d5-4b30-9875-24de2f69a060)
-![pokeDetail](https://github.com/samettigy/Pazarama-iOS-Bootcamp/assets/116752451/697c26b3-a367-4725-a03f-b7db1be62261)
-![1699881096221](https://github.com/samettigy/Pazarama-iOS-Bootcamp/assets/116752451/1d56c834-b6d1-4cfa-8a3e-c0e54bffb3e7)
-
-
-
-### 3. Movie App
+### Movie App
 
 
 | Screen 1 | Screen 2 | Screen 3 |
